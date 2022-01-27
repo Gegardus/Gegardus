@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![25f](https://user-images.githubusercontent.com/52704856/150575372-be5efb87-caea-4756-90fb-d748d1862fd1.jpg)
+![maxresdefault](https://user-images.githubusercontent.com/52704856/151406387-4870deb0-05c0-47af-b82b-841af7bff61c.jpg)
+
 
 - 🔭 I’m currently working on web-development skills.
 - 🌱 I’m currently learning JavaScript.
