@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 ![image](https://user-images.githubusercontent.com/52704856/151410072-6c9dd76f-015d-4150-9dc3-c7a199796fbe.png)
 
 - 🔭 I’m currently working on web-development skills.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m presently learning JavaScript.
+- ⚡ Fun fact: The oldest ancient documents we know are papyri. <br> What ancient's troubles put in first written words 6,000 years ago? <br> "Unfortunately the world now isn't as it used to be. Everyone <br> wishes to write books and children do not obey their parents."
 
 
 
