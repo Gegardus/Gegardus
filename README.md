@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web-development skills.
 - 🌱 I’m presently learning JavaScript.
-- ⚡ Fun fact: The oldest ancient documents we know are papyri. <br> What ancient's troubles put in first written words 6,000 years ago? <br> "_Unfortunately the world now isn't as it used to be. Everyone <br> wishes to write books and children do not obey their parents."
+- ⚡ Fun fact: The oldest ancient documents we know are papyri. <br> What ancient's troubles put in first written words 6,000 years ago? <br> "_Unfortunately the world now isn't as it used to be. Everyone <br> wishes to write books and children do not obey their parents_."
 
 
 
