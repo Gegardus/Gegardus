@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Vahan
+### Hi there 👋 Welcome to my GitHub profile
 
 <!--
 **Gegardus/Gegardus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
